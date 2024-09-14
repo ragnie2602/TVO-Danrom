@@ -1,0 +1,131 @@
+{
+  "Add Multiple Options": "إضافة خيارات متعددة",
+  "Add New Option": "إضافة خيار جديد",
+  "Advanced Settings": "إعدادات متقدمة",
+  "Allow for more than 5 players": "السماح لأكثر من 5 لاعبين",
+  "Arabic": "العربية",
+  "Can't open": "لا يمكن فتحه",
+  "Card Skins": "أغلفة البطاقات",
+  "Chinese": "الصينية",
+  "Chooser": "المختار",
+  "Coin": "عملة",
+  "Coin Skins": "أغلفة العملات",
+  "Count": "العدد",
+  "Decision": "القرار",
+  "Decision Making": "اتخاذ القرار",
+  "Disable the result automatically, it can't be drawn until reset": "تعطيل النتيجة تلقائيًا، لا يمكن استخراجها حتى يتم إعادة التعيين",
+  "Don't ever feel alone in making decisions, Danrom will always be here to help you.": "لا تشعر أبدًا بالوحدة عند اتخاذ القرارات، سيكون Danrom دائمًا هنا لمساعدتك.",
+  "Duplicate Results": "نتائج مكررة",
+  "English": "الإنجليزية",
+  "Enter any options you want, one per line, for example:\nCar\nBicycle\nTrain": "أدخل أي خيارات تريدها، واحدة في كل سطر، على سبيل المثال:\nسيارة\nدراجة\nقطار",
+  "Flip": "اقلب",
+  "Generate!": "توليد!",
+  "Hold your finger to ": "امسك إصبعك لـ",
+  "Indonesian": "الإندونيسية",
+  "Language": "اللغة",
+  "Languages": "اللغات",
+  "Next": "التالي",
+  "No Loop": "بدون تكرار",
+  "Number": "العدد",
+  "Number of winners if there's enough players": "عدد الفائزين إذا كان هناك عدد كافٍ من اللاعبين",
+  "Option": "الخيار",
+  "Options": "الخيارات",
+  "Private Policy": "سياسة الخصوصية",
+  "Question": "السؤال",
+  "Range": "النطاق",
+  "Rate app": "قيم التطبيق",
+  "Remove Duplicated Options": "إزالة الخيارات المكررة",
+  "Reset": "إعادة تعيين",
+  "Save": "حفظ",
+  "Set duration": "تعيين المدة",
+  "Settings": "الإعدادات",
+  "Share app": "مشاركة التطبيق",
+  "Shuffle Cards": "خلط البطاقات",
+  "Shuffle Options": "خلط الخيارات",
+  "Something different than funny random": "شيء مختلف عن العشوائية المضحكة",
+  "Sort Results": "فرز النتائج",
+  "Start": "بدء",
+  "Start!": "ابدأ!",
+  "System Language": "لغة النظام",
+  "Tap Mode": "وضع اللمس",
+  "Text copied": "تم نسخ النص",
+  "to": "ل",
+  "Touch on cards to ": "المس البطاقات لـ",
+  "Touch to ": "المس لـ",
+  "Touch to Generate": "المس للتوليد",
+  "Touch to Start!": "المس لل",
+  "Try from $0.99": "حاول من 0.99 دولار",
+  "Unlimited, faster & better": "غير محدود، أسرع وأفضل",
+  "Version": "إصدار",
+  "Vietnamese": "الفيتنامية",
+  "Wanna hangout?": "تريد الخروج للتسكع؟",
+  "Wheel": "عجلة",
+  "Wheel Skins": "جلود العجلات",
+  "Winners": "عدد الفائزين",
+  "No regrets, just lessons.": "لا ندم ، فقط دروس",
+  "Step out of your comfort zone.": "اخرج من منطقة راحتك",
+  "Just Say Yes": "فقط قل نعم",
+  "Flip a coin and do the opposite": "اقلب عملة معدنية وافعل العكس",
+  "Keep moving forward.": "استمر في المضي قدمًا",
+  "Trust your instincts.": "ثق بحدسك",
+  "Make it happen.": "اجعلها تحدث",
+  "Be fearless.": "كن شجاعًا",
+  "Ask your mom": "اسأل أمك",
+  "What will be will be": "ما سيكون سيكون",
+  "Haste makes waste": "العجلة من الشيطان",
+  "A miss is as good as a mile": "إن الخطأ الصغير مثل الخطأ الكبير",
+  "Let bygones be bygones": "دع الماضي يمر",
+  "All that glitters is not gold": "ليس كل ما يلمع ذهبا",
+  "No more no less": "لا أكثر ولا أقل",
+  "Better late than never": "خير متأخر من عدمه",
+  "Sink or swim": "إما أن تنجح أو تغرق",
+  "You can't have it both ways": "لا يمكنك الحصول على كليهما",
+  "A good beginning makes a good ending": "البداية الجيدة تصنع نهاية جيدة",
+  "Misfortunes never come alone.": "المصائب لا تأتي منفردة",
+  "To be not as black as it is painted": "ليس الأمر سيئًا كما يبدو",
+  "After rain comes fair weather": "بعد المطر تأتي الشمس",
+  "Better luck next time": "حظًا أوفر في المرة القادمة",
+  "Judge not, that you be not judged": "لا تحكم على الآخرين حتى لا يحكموا عليك",
+  "Something better than nothing": "شيء أفضل من لا شيء",
+  "Hatred is as blind as love": "الكراهية أعمى مثل الحب",
+  "If you sell the cow, you will sell her milk too": "إذا بعت البقرة ، فستبيع حليبها أيضًا",
+  "Judge a man by his work": "قيم الرجل من خلال عمله",
+  "Observations is the best teacher": "الملاحظة هي أفضل معلم",
+  "What goes up must go down": "ما صعد لابد أن ينزل",
+  "Love can't be forced": "الحب لا يمكن إجباره",
+  "As clear as daylight": "واضح كضوء النهار",
+  "Time cure all pains": "الوقت يشفي جميع الجروح",
+  "Never put off tomorrow what you can do today": "لا تؤجل إلى الغد ما يمكنك فعله اليوم",
+  "Great minds think alike": "العقول العظيمة تفكر على حد سواء",
+  "It's the best thing since sliced bread": "إنه أفضل شيء منذ شرائح الخبز",
+  "See eye to eye": "يتفق",
+  "Hit the sack": "اذهب إلى الفراش ، لا تفكر أكثر",
+  "Nobody has ever shed tears without seeing a coffin": "لا أحد يبكي أبدًا دون أن يرى تابوتًا",
+  "When pigs fly": "عندما تطير الخنازير",
+  "Have your ducks in a row": "جهز كل شيء بعناية",
+  "Waste of time": "إضاعة للوقت ، لا تفعل 🫣",
+  "Know your limits": "اعرف حدودك",
+  "Have your head in the clouds": "خيالي",
+  "Believe in yourself": "آمن بنفسك",
+  "Go back to the drawing board": "لا تتردد في البدء من جديد",
+  "Keep your chin up": "كن متفائلاً",
+  "Get the ball rolling": "ابدأ العمل",
+  "Chase rainbows": "اسع وراء قوس قزح",
+  "Something to kill time": "شيء لملء الوقت",
+  "Turn a blind eye": "تغاضى عن ذلك",
+  "Bite the bullet": "تقبل الواقع المر",
+  "Break the ice": "كسر الجليد",
+  "It's all downhill from here": "كل شيء سيكون أسهل من هنا",
+  "Dont cry over split milk": "لا تبكي على اللبن المسكوب",
+  "At all costs": "بأي ثمن",
+  "Let's face it": "لنواجه الأمر",
+  "Put yourself in his/her shoes": "ضع نفسك مكانه",
+  "Change your/his/ her mind": "غير رأيك",
+  "Pay a heavy toll": "ادفع ثمنا باهظا",
+  "Cut corners": "اقتصاص",
+  "Paint the town red": "اسهر على المدينة",
+  "A shot in the dark": "لقطة في الظلام",
+  "Get the hold of the wrong end of the stick": "فهم الأمور بشكل خاطئ",
+  "Play it by ear": "ارتجله",
+  "Let sleeping dogs lie": "دع الأمور النائمة نائمة"
+}

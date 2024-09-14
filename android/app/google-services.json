@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370941082115",
+    "project_id": "danrom-b0888",
+    "storage_bucket": "danrom-b0888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370941082115:android:86614dfa69f1090e77ec36",
+        "android_client_info": {
+          "package_name": "com.tvo.danrom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauWHi5LilaLyGKZ6FajTNkzvZfruYfgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
